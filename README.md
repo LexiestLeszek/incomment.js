@@ -7,14 +7,14 @@ This code creates a self-executing anonymous function to encapsulate the functio
 3. removeCommentBox function is used to remove the comment box from the DOM.
 4. The contextmenu event listener captures the right-click event, prevents the default context menu, and triggers the creation of the comment box at the clicked position.
 
-# Usage
+# Installation and usage
 
-*Intalling using CDN*
+**Intalling using CDN**
 
 Include the script in your HTML:
 `<script src="https://[LINK TO THE CDN]/incomment.js"></script>`
 
-*Installing with a Local File*
+**Installing with a Local File**
 
 1. Download the script:
 Save the JavaScript code provided earlier as a .js file, for example, inProductComment.js.
