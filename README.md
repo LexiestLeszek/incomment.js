@@ -17,7 +17,7 @@ Include the script in your HTML:
 **Installing with a Local File**
 
 1. Download the script:
-Save the JavaScript code provided earlier as a .js file, for example, inProductComment.js.
+Save the JavaScript code provided earlier as a .js file, for example, inComment.js.
 
 2. Include the script in your HTML:
 `<script src="path/to/inComment.js"></script>`
