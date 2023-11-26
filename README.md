@@ -24,5 +24,5 @@ Save the JavaScript code provided earlier as a .js file, for example, inComment.
 
 **How to use in your app:**
 
-Once the library is included, you can right-click anywhere on your web app to trigger the comment box. You can then type their comment and click "Submit" or "Cancel" as needed. Comments will be logged in the console for demonstration purposes, but you'll need to replace this logging functionality with your desired storage or handling mechanism.
+Once the library is included, you can right-click anywhere on your web app to trigger the comment box. You can then type the comment and click "Submit" or "Cancel" as needed. Comments will be logged in the console for demonstration purposes, but you'll need to replace this logging functionality with your desired storage or handling mechanism.
 
