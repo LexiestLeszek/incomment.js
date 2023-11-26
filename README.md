@@ -12,7 +12,7 @@ This code creates a self-executing anonymous function to encapsulate the functio
 *Intalling using CDN*
 
 Include the script in your HTML:
-<script src="https://[LINK TO THE CDN]incomment.js"></script>
+`<script src="https://[LINK TO THE CDN]/incomment.js"></script>`
 
 *Installing with a Local File*
 
