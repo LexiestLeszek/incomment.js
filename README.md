@@ -3,6 +3,7 @@
 This code creates a self-executing anonymous function to encapsulate the functionality of creating an in-product comments for any web application (similar to how its done in PowerPoint).
 
 The createCommentBox() function creates a div element at the position of the right-click (x, y). Inside the div, it creates a textarea for comments and several buttons, including 'Submit', 'Cancel', 'Edit', 'Reply', 'Delete', 'Upvote', and 'Downvote'. It also attaches event listeners to these buttons. The 'Submit' button logs the comment text to the console and removes the comment box from the webpage. The 'Cancel' button simply removes the comment box. The 'Edit' button allows the user to edit the comment. The 'Reply' button creates a new comment box for a reply to the current comment. The 'Delete' button removes the comment from the list of comments. The 'Upvote' and 'Downvote' buttons allow the user to vote on the comment.
+
 The removeCommentBox() function is used to remove the comment box from the DOM. It also removes the comment from the list of comments.
 The contextmenu event listener captures the right-click event, prevents the default context menu, and triggers the creation of the comment box at the clicked position. If a comment box already exists, it is removed before a new one is created. If the right-click event occurs within an existing comment box, a new comment box is created for a reply to the current comment.
 
